@@ -1,0 +1,13 @@
+C:\Users\Hudelsis pc\source\repos\Ejercicio_LibroCsharp\bin\Debug\netcoreapp3.1\Ejercicio_LibroCsharp.exe
+C:\Users\Hudelsis pc\source\repos\Ejercicio_LibroCsharp\bin\Debug\netcoreapp3.1\Ejercicio_LibroCsharp.deps.json
+C:\Users\Hudelsis pc\source\repos\Ejercicio_LibroCsharp\bin\Debug\netcoreapp3.1\Ejercicio_LibroCsharp.runtimeconfig.json
+C:\Users\Hudelsis pc\source\repos\Ejercicio_LibroCsharp\bin\Debug\netcoreapp3.1\Ejercicio_LibroCsharp.runtimeconfig.dev.json
+C:\Users\Hudelsis pc\source\repos\Ejercicio_LibroCsharp\bin\Debug\netcoreapp3.1\Ejercicio_LibroCsharp.dll
+C:\Users\Hudelsis pc\source\repos\Ejercicio_LibroCsharp\bin\Debug\netcoreapp3.1\Ejercicio_LibroCsharp.pdb
+C:\Users\Hudelsis pc\source\repos\Ejercicio_LibroCsharp\obj\Debug\netcoreapp3.1\Ejercicio_LibroCsharp.csprojAssemblyReference.cache
+C:\Users\Hudelsis pc\source\repos\Ejercicio_LibroCsharp\obj\Debug\netcoreapp3.1\Ejercicio_LibroCsharp.AssemblyInfoInputs.cache
+C:\Users\Hudelsis pc\source\repos\Ejercicio_LibroCsharp\obj\Debug\netcoreapp3.1\Ejercicio_LibroCsharp.AssemblyInfo.cs
+C:\Users\Hudelsis pc\source\repos\Ejercicio_LibroCsharp\obj\Debug\netcoreapp3.1\Ejercicio_LibroCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Hudelsis pc\source\repos\Ejercicio_LibroCsharp\obj\Debug\netcoreapp3.1\Ejercicio_LibroCsharp.dll
+C:\Users\Hudelsis pc\source\repos\Ejercicio_LibroCsharp\obj\Debug\netcoreapp3.1\Ejercicio_LibroCsharp.pdb
+C:\Users\Hudelsis pc\source\repos\Ejercicio_LibroCsharp\obj\Debug\netcoreapp3.1\Ejercicio_LibroCsharp.genruntimeconfig.cache
