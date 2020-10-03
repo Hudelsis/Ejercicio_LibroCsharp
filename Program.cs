@@ -3,6 +3,8 @@ using Ejercicio_LibroCsharp.Capitulo_4;
 using Ejercicio_LibroCsharp.Capitulo_5;
 using Ejercicio_LibroCsharp.Capitulo_6;
 using Ejercicio_LibroCsharp.Capitulo_7;
+using Ejercicio_LibroCsharp.Capitulo_8;
+using Ejercicio_LibroCsharp.Capitulo_9;
 
 namespace Ejercicios_LibroCsharp
 {
@@ -18,8 +20,11 @@ namespace Ejercicios_LibroCsharp
             Ejercicio7_1 ejercicio7_1 = new Ejercicio7_1();
             Ejercicio7_2 ejercicio7_2= new Ejercicio7_2();
             Ejercicio7_5 ejercicio7_5 = new Ejercicio7_5();
+            Ejercicio8_5 ejercicio8_5 = new Ejercicio8_5();
+            Ejercicio8_3 ejercicio8_3 = new Ejercicio8_3();
+            Ejercicio9_1_3_4 ejercicio9_1_3_4 = new Ejercicio9_1_3_4();
 
-            while(menu != 11)
+            while(menu != 14)
             {
             Console.WriteLine("1-Ejercicio 4.1");
             Console.WriteLine("2-Ejercicio 4.2");
@@ -31,7 +36,10 @@ namespace Ejercicios_LibroCsharp
             Console.WriteLine("9-Ejercicio 7.1");
             Console.WriteLine("10-Ejercicio 7.2");
             Console.WriteLine("11-Ejercicio 7.5");
-            Console.WriteLine("12-Salir");
+            Console.WriteLine("12-Ejercicio 8.3");
+            Console.WriteLine("13-Ejercicio 8.5");
+            Console.WriteLine("14-Ejercicio 9.1.3.4");
+            Console.WriteLine("15-Salir");
             Console.WriteLine("Elija una opción: ");
             
             menu = Convert.ToInt32(Console.ReadLine());
@@ -64,14 +72,23 @@ namespace Ejercicios_LibroCsharp
                     Ejercicio7_1.Ejercicio();
                     break;  
                 case 9:
-                Ejercicio7_2.Ejercicio();
-                break;
+                     Ejercicio7_2.Ejercicio();
+                      break;
 
                 case 10:
-                Ejercicio7_5.Ejercicio();
-                break;
+                       Ejercicio7_5.Ejercicio();
+                       break;
                 case 11:
-                    break;
+                       Ejercicio8_5.Ejercicio();
+                       break;
+                 case 12:
+                       Ejercicio8_3.Ejercicio();
+                       break;
+                case 13:
+                      // Ejercicio9_1_3_4.Ejercicio();
+                       break;
+                case 14:
+                      break;
                 default:
                     Console.WriteLine("Opción no existe");
                     break;
