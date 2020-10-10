@@ -5,6 +5,7 @@ using Ejercicio_LibroCsharp.Capitulo_6;
 using Ejercicio_LibroCsharp.Capitulo_7;
 using Ejercicio_LibroCsharp.Capitulo_8;
 using Ejercicio_LibroCsharp.Capitulo_9;
+using Ejercicio_LibroCsharp.Capitulo_10;
 
 namespace Ejercicios_LibroCsharp
 {
@@ -23,8 +24,12 @@ namespace Ejercicios_LibroCsharp
             Ejercicio8_5 ejercicio8_5 = new Ejercicio8_5();
             Ejercicio8_3 ejercicio8_3 = new Ejercicio8_3();
             Ejercicio9_1_3_4 ejercicio9_1_3_4 = new Ejercicio9_1_3_4();
+            Ejercicio10_1 ejercicio10_1 = new Ejercicio10_1();
+            Ejercicio10_2 Ejercicio10_2 = new Ejercicio10_2();
+            Ejercicio10_3 ejercicio10_3 = new Ejercicio10_3();
+            
 
-            while(menu != 14)
+            while(menu != 18)
             {
             Console.WriteLine("1-Ejercicio 4.1");
             Console.WriteLine("2-Ejercicio 4.2");
@@ -39,7 +44,10 @@ namespace Ejercicios_LibroCsharp
             Console.WriteLine("12-Ejercicio 8.3");
             Console.WriteLine("13-Ejercicio 8.5");
             Console.WriteLine("14-Ejercicio 9.1.3.4");
-            Console.WriteLine("15-Salir");
+            Console.WriteLine("15-Ejercicio 10.1");
+            Console.WriteLine("16-Ejercicio 10.2");
+            Console.WriteLine("17-Ejercicio 10.3");
+            Console.WriteLine("18-Salir");
             Console.WriteLine("Elija una opción: ");
             
             menu = Convert.ToInt32(Console.ReadLine());
